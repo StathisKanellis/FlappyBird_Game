@@ -1,0 +1,9 @@
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.FlappyBirdGame.resources
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
