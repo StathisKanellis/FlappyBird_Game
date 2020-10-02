@@ -12,16 +12,26 @@ namespace FlappyBird
 {
     public partial class FlappyBirdGame : Form
     {
-
         int pipeSpeed = 8;
         int gravity = 7;
         int score = 0;
         string text = "Score: ";
 
+        private bool _gameReady;
 
         public FlappyBirdGame()
         {
             InitializeComponent();
+        }
+
+        //game loaded
+        private void FlappyBirdGame_Load(object sender, EventArgs e)
+        {
+            //start with game stopped
+            gameTimer.Enabled = false;
+            _gameReady = true;
+
+            MessageBox.Show("Press space to begin moving, press R to restart.");
         }
 
         private void gameTimerEvent(object sender, EventArgs e)
@@ -62,6 +72,17 @@ namespace FlappyBird
             if (e.KeyCode.Equals(Keys.Space))
             {
                 gravity = -5;
+
+                //unpause game
+                if (_gameReady)
+                {
+                    gameTimer.Enabled = true;
+                    _gameReady = false;
+                }
+            }
+            else if(e.KeyCode.Equals(Keys.R))
+            {
+                ResetGame();
             }
         }
 
@@ -79,5 +100,20 @@ namespace FlappyBird
             scoreText.Text += " - Game Over!!!";
         }
 
+        //reset the game
+        private void ResetGame()
+        {
+            //stop timer
+            gameTimer.Enabled = false;
+
+            //reset sprites
+            pipeBottom.Location = new Point(327, 291);
+            pipeTop.Location = new Point(477, -1);
+            flappyBird.Location = new Point(59, 150);
+
+            score = 0;
+
+            _gameReady = true;
+        }
     }
 }

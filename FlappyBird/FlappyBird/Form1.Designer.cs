@@ -115,6 +115,7 @@
             this.Name = "FlappyBirdGame";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FlappyBirdGame";
+            this.Load += new System.EventHandler(this.FlappyBirdGame_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gameKeyIsDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.gameKeyIsUp);
             ((System.ComponentModel.ISupportInitialize)(this.flappyBird)).EndInit();
