@@ -7,3 +7,13 @@ C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.R
 C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
 C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
 C:\Users\Stathis\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.FlappyBirdGame.resources
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Isaac\Documents\GitHub\FlappyBird_Game\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
